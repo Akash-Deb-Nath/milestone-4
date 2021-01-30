@@ -127,8 +127,8 @@ nav ul li a:hover, a.active{
     width: 100%;
     display: none;
     padding: 150px 500px;
-    background:rgb(2, 2, 37);
-    color:  #f3f5ffc7;
+    background: #f3f5ff80;
+    color:  rgba(6, 6, 22, 0.849);
     margin: 20px 0;
 }
 .buttons{
